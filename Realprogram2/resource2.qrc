@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/icons8-sync-96 (1).png</file>
+    <file>icon/icons8-sync-96.png</file>
+    <file>icon/icons8-accept-96 (1).png</file>
+    <file>icon/icons8-accept-96.png</file>
+    <file>icon/icons8-monitor-96 (1).png</file>
+    <file>icon/icons8-monitor-96.png</file>
+    <file>icon/contact-black.png</file>
+    <file>icon/contact-white.png</file>
+    <file>icon/dashboard-black.png</file>
+    <file>icon/dashboard-white.png</file>
+    <file>icon/diskette.png</file>
+    <file>icon/edit-black.png</file>
+    <file>icon/edit-white.png</file>
+    <file>icon/icons8-card-96 (1).png</file>
+    <file>icon/icons8-card-96.png</file>
+    <file>icon/icons8-contact-96 (1).png</file>
+    <file>icon/icons8-contact-96.png</file>
+    <file>icon/icons8-home-96 (1).png</file>
+    <file>icon/icons8-home-96.png</file>
+    <file>icon/justification.png</file>
+    <file>icon/list.png</file>
+    <file>icon/loupe.png</file>
+    <file>icon/maps-and-flags.png</file>
+    <file>icon/sedan-black.png</file>
+    <file>icon/sedan-gray.png</file>
+    <file>icon/sedan-white.png</file>
+    <file>icon/sort.png</file>
+  </qresource>
+</RCC>
