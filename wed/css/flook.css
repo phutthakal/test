@@ -1,0 +1,134 @@
+*   {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+    padding:  10px;
+    background-color: #006664;
+}
+
+.logo a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.meun   {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    
+}
+.meun li{
+    margin-left: 10px;
+}
+
+.meun li a{
+    text-decoration: none;
+    color: #fff;
+    /* border: 1px solid red; */
+}
+.meun  a{
+    color: #fff;
+}
+
+.meun li ul {
+    display: none;
+    position: absolute;
+    background-color: #006664;
+}
+.meun li:hover ul {
+    display: block; /* แสดง dropdown เมื่อโฮเวอร์ที่ลิงก์หลัก */
+}
+
+.meun li ul li {
+    padding: 10px;
+    text-align: left;
+    width: 100%;
+    list-style: none
+}
+
+.banner {
+    /* background-color: rgb(34, 189, 137); */
+    color: black;
+    height: 400%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-info {
+    text-align: center;
+    /* border:1px solid red; */
+    
+}
+.banner-info  h1{
+    margin-top: 0.5%;
+}
+.banner-info img {
+    width: auto;
+    height: auto;
+}
+.content {
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    max-width: 800px;
+}
+.content h3{
+    text-align: left;
+    text-indent: 10px;
+    max-width: 30%;
+    /* border: 1px solid red; */
+}
+.content p{
+    text-align: left;
+    padding: 1%;
+    width: auto;
+    text-indent: 5%;
+    /* border: 1px solid red; */
+}
+.content a{
+    padding: 1%;
+    color: #333;
+    max-width: 45%;
+    /* border: 1px solid red; */
+}
+
+.content img {
+    width: 100%;
+    display: block;
+    margin: auto;
+    padding: 2%;
+    margin-top: -30px;
+    /* border: 1px solid red; */
+}
+.grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    
+}
+.content a{
+    text-align: left;
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+}
+
+.main{
+    text-align: center;
+    
+}
+.main img{
+    margin: auto;
+    width: 20%;
+    padding: 20px;
+}
